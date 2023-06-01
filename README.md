@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @knadendla
-- 👀 I’m interested in ...
+- 👀 I’m interested in Technology
 - 🌱 I’m currently learning - Anthos 
 - 📫 How to reach me ...
 
